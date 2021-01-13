@@ -12,9 +12,15 @@ UN SUPER CAMBIA
 ### Clase 
 
 
+<<<<<<< HEAD
 HOlA CAMBIO 
 
 nuevo 
 
+=======
+Soy el culpable del conflicto
+>>>>>>> a8817b2b5aafda8f34b22c5508731e08e869a912
 
+
+Soy u nuevo cambio
 
